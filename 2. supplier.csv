@@ -1,0 +1,195 @@
+﻿Kota Tujuan,Shipper,Jumlah Order
+London,Federal Shipping,20
+London,United Package,17
+Rio de Janeiro,United Package,15
+México D.F.,Federal Shipping,14
+Rio de Janeiro,Speedy Express,14
+Sao Paulo,United Package,12
+Sao Paulo,Speedy Express,11
+Boise,Speedy Express,11
+Cunewalde,Speedy Express,11
+Boise,Federal Shipping,11
+Graz,Federal Shipping,10
+Graz,Speedy Express,10
+México D.F.,United Package,10
+Graz,United Package,10
+Cork,United Package,9
+Cunewalde,United Package,9
+Boise,United Package,9
+Luleå,United Package,9
+London,Speedy Express,9
+Bräcke,Speedy Express,9
+Cunewalde,Federal Shipping,8
+Albuquerque,Federal Shipping,8
+Sao Paulo,Federal Shipping,8
+Tsawassen,Federal Shipping,8
+Frankfurt a.M.,United Package,8
+San Cristóbal,United Package,8
+Stuttgart,United Package,7
+Marseille,United Package,7
+Eugene,United Package,7
+Montréal,United Package,7
+München,United Package,7
+Buenos Aires,United Package,7
+Lisboa,Federal Shipping,7
+Reggio Emilia,Speedy Express,7
+San Cristóbal,Speedy Express,7
+Albuquerque,United Package,7
+Toulouse,Speedy Express,6
+Marseille,Speedy Express,6
+Frankfurt a.M.,Speedy Express,6
+Charleroi,Federal Shipping,6
+Cork,Federal Shipping,6
+Oulu,Federal Shipping,6
+Bräcke,United Package,6
+Brandenburg,United Package,6
+Cowes,United Package,6
+Lander,United Package,6
+Portland,United Package,6
+Oulu,United Package,5
+Salzburg,United Package,5
+Seattle,United Package,5
+Köln,United Package,5
+Genève,United Package,5
+Lyon,United Package,5
+Charleroi,United Package,5
+Montréal,Federal Shipping,5
+Seattle,Federal Shipping,5
+Rio de Janeiro,Federal Shipping,5
+Anchorage,Federal Shipping,5
+Barquisimeto,Federal Shipping,5
+Brandenburg,Federal Shipping,5
+Luleå,Speedy Express,5
+I. de Margarita,Speedy Express,5
+Barquisimeto,Speedy Express,5
+Buenos Aires,Speedy Express,5
+Torino,Speedy Express,5
+Strasbourg,Speedy Express,5
+München,Speedy Express,5
+Oulu,Speedy Express,4
+Seattle,Speedy Express,4
+Resende,Speedy Express,4
+Barquisimeto,United Package,4
+Bergamo,United Package,4
+Cork,Speedy Express,4
+Berlin,Speedy Express,4
+México D.F.,Speedy Express,4
+Madrid,Speedy Express,4
+Helsinki,Speedy Express,4
+Bräcke,Federal Shipping,4
+Buenos Aires,Federal Shipping,4
+Bergamo,Federal Shipping,4
+Århus,Federal Shipping,4
+Genève,Federal Shipping,4
+Toulouse,Federal Shipping,4
+Warszawa,Federal Shipping,4
+Århus,Speedy Express,4
+Luleå,Federal Shipping,4
+Marseille,Federal Shipping,4
+Campinas,United Package,4
+I. de Margarita,United Package,4
+Münster,United Package,4
+Lisboa,United Package,4
+Sevilla,United Package,4
+Stavern,United Package,4
+San Francisco,United Package,4
+Resende,United Package,4
+Reggio Emilia,United Package,4
+Toulouse,United Package,4
+Tsawassen,United Package,3
+Strasbourg,United Package,3
+Madrid,United Package,3
+Mannheim,United Package,3
+Bruxelles,United Package,3
+Mannheim,Federal Shipping,3
+Portland,Federal Shipping,3
+Lyon,Federal Shipping,3
+München,Federal Shipping,3
+Albuquerque,Speedy Express,3
+Anchorage,Speedy Express,3
+Vancouver,Federal Shipping,3
+Strasbourg,Federal Shipping,3
+Salzburg,Federal Shipping,3
+San Cristóbal,Federal Shipping,3
+Sevilla,Federal Shipping,3
+Eugene,Federal Shipping,3
+Kobenhavn,Federal Shipping,3
+Helsinki,Federal Shipping,3
+I. de Margarita,Federal Shipping,3
+Aachen,Federal Shipping,3
+Campinas,Federal Shipping,3
+Köln,Speedy Express,3
+Bern,Speedy Express,3
+Brandenburg,Speedy Express,3
+Elgin,Speedy Express,3
+Bern,United Package,3
+Århus,United Package,3
+Stuttgart,Speedy Express,3
+Tsawassen,Speedy Express,3
+Portland,Speedy Express,3
+Sevilla,Speedy Express,3
+Nantes,Speedy Express,3
+Lisboa,Speedy Express,2
+Münster,Speedy Express,2
+Salzburg,Speedy Express,2
+Versailles,Speedy Express,2
+Anchorage,United Package,2
+Aachen,United Package,2
+Cowes,Speedy Express,2
+Campinas,Speedy Express,2
+Bruxelles,Speedy Express,2
+Bergamo,Speedy Express,2
+Lander,Speedy Express,2
+Leipzig,Speedy Express,2
+Kobenhavn,Speedy Express,2
+Lyon,Speedy Express,2
+Caracas,Federal Shipping,2
+Bruxelles,Federal Shipping,2
+Bern,Federal Shipping,2
+Barcelona,Federal Shipping,2
+Cowes,Federal Shipping,2
+Köln,Federal Shipping,2
+Leipzig,Federal Shipping,2
+Lille,Federal Shipping,2
+Barcelona,Speedy Express,2
+Nantes,Federal Shipping,2
+Reims,Federal Shipping,2
+Kirkland,United Package,2
+Kobenhavn,United Package,2
+Nantes,United Package,2
+Lille,United Package,2
+Reims,United Package,2
+Paris,United Package,2
+Versailles,United Package,2
+Warszawa,United Package,2
+Walla Walla,United Package,1
+Torino,United Package,1
+Leipzig,United Package,1
+Elgin,United Package,1
+Butte,United Package,1
+Resende,Federal Shipping,1
+Reggio Emilia,Federal Shipping,1
+Paris,Federal Shipping,1
+Madrid,Federal Shipping,1
+Walla Walla,Federal Shipping,1
+Aachen,Speedy Express,1
+Stavern,Federal Shipping,1
+Lander,Federal Shipping,1
+Frankfurt a.M.,Federal Shipping,1
+Elgin,Federal Shipping,1
+Kirkland,Federal Shipping,1
+Berlin,Federal Shipping,1
+Butte,Federal Shipping,1
+Mannheim,Speedy Express,1
+Montréal,Speedy Express,1
+Lille,Speedy Express,1
+Genève,Speedy Express,1
+Charleroi,Speedy Express,1
+Butte,Speedy Express,1
+Eugene,Speedy Express,1
+Berlin,United Package,1
+Barcelona,United Package,1
+Warszawa,Speedy Express,1
+Stavern,Speedy Express,1
+Paris,Speedy Express,1
+Reims,Speedy Express,1
